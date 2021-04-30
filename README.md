@@ -21,5 +21,18 @@ There are four common working modes of this converter during all of the active c
 ### Multi-converter Applications
 Nevertheless, the working principle of the proposed multiconverter is described according to the individual active energy conversion mode in the following subsections.
 
-#### Step-Down Frequency Converter
+#### 1. Step-Down Frequency Converter
 Generally, the step-down cycloconverter provides an output voltage of frequency less than the frequency of the input voltage. The presented converter can be operated to convert the input frequency to its half (25 Hz), one-third (17 Hz), one-fourth (12.5 Hz) and so on output frequency as a step-down cycloconverter. Here, only two frequency conversion i.e. half (25 Hz) and one-third (17 Hz) frequency conversions are shown.
+
+
+<img src="Images/image-4.png" width="500" height="300">
+<img src="Images/image-5.png" width="500" height="300">
+
+
+
+
+
+
+
+
+
