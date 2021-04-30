@@ -1,1 +1,1 @@
-# Two-Switch-Cycloconverter
+# Two-Switch-Multiconverter
