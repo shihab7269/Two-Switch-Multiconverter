@@ -44,9 +44,11 @@ During the operation of the converter as a controlled rectifier, state-2 and sta
 <img src="Images/image-10.png" width="500" height="300">
 
 ### Hardware Implementation
-The prototype is made up of power MOSFETs (STP60NF06) and power diodes (1N5822), and a 12V stepped-down AC voltage produced by a center trapped transformer is used as input supply during experiment. In order to drive the gates of the switches, the switching signals are generated using Arduino Uno (ATMega16) processor board and then, they are boosted up through the driver circuits developed with optocouplers (TLP250) and isolated DC-DC converters (B1212s). Finally, the boosted pulses are applied to the gates of the switches using the synchronization mechanism offered by the zero-cross detector circuits, and then, the output voltages are recorded across resistive load on the oscilloscope screen.
+The prototype is made up of power MOSFETs (STP60NF06) and power diodes (1N5822), and a 12V stepped-down AC voltage produced by a center trapped transformer is used as input supply during experiment. In order to drive the gates of the switches, the switching signals are generated using Arduino Uno (ATMega328p) processor board and then, they are boosted up through the driver circuits developed with optocouplers (TLP250) and isolated DC-DC converters (B1212s). Finally, the boosted pulses are applied to the gates of the switches using the synchronization mechanism offered by the zero-cross detector circuits, and then, the output voltages are recorded across resistive load on the oscilloscope screen. The following figure shows the designed hardware prototype.
 
 <img src="Images/image-11.png" width="500" height="300">
 
+### Output
+The following figures show the output voltage of the mid point type cycloconverter taking from a two channel digital oscilloscope.
 
 
