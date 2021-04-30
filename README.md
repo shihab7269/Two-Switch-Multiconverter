@@ -51,4 +51,9 @@ The prototype is made up of power MOSFETs (STP60NF06) and power diodes (1N5822),
 ### Output
 The following figures show the output voltage of the mid point type cycloconverter taking from a two channel digital oscilloscope.
 
+<img src="Images/image-12.png" width="500" height="300">
+<img src="Images/image-13.png" width="500" height="300">
+<img src="Images/image-14.png" width="500" height="300">
+<img src="Images/image-15.png" width="500" height="300">
+<img src="Images/image-16.png" width="500" height="300">
 
