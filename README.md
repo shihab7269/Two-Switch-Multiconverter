@@ -56,5 +56,12 @@ To generate the gate driving pulse, Arduino uno board is used. The following pin
 
 Here, total three arduino files are uploaded for up-converter, down-converter and ac voltage regulator apllications. Just download the code and upload to your arduino uno board.
 
+### Output
+The following figures show the output voltage of the mid point type cycloconverter taking from a two channel digital oscilloscope.
 
+<img src="Images/image-12.png" width="500" height="300">
+<img src="Images/image-13.bmp" width="500" height="300">
+<img src="Images/image-14.png" width="500" height="300">
+<img src="Images/image-15.png" width="500" height="300">
+<img src="Images/image-16.png" width="500" height="300">
 
