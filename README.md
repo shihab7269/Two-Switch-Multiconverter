@@ -48,6 +48,14 @@ The prototype is made up of power MOSFETs (STP60NF06) and power diodes (1N5822),
 
 <img src="Images/image-11.png" width="500" height="300">
 
+### Software/Coding
+To generate the gate driving pulse, Arduino uno board is used. The following pin's are used:
+
+   1. INPUT: Digital pin-7
+   2. OUTPUT: Digital pin-3, 2 (where 3 for T1 and 2 for T1 switch according to the designed circuit.)
+
+Here, total three arduino files are uploaded for up-converter, down-converter and ac voltage regulator apllications. Just download the code and upload to your arduino uno board.
+
 ### Output
 The following figures show the output voltage of the mid point type cycloconverter taking from a two channel digital oscilloscope.
 
